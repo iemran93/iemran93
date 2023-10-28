@@ -19,6 +19,8 @@ Reboot Coding Institute (Enroll)
 
 [linkedin]: https://www.linkedin.com/in/emran-marei-4a5a36141/
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,JustWhit3.github.io,vcpkg&theme=algolia" width = "380"><br>
+
 <!--
 **iemran93/iemran93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
