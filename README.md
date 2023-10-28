@@ -16,7 +16,7 @@ Reboot Coding Institute (Enroll)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,JustWhit3.github.io,vcpkg&theme=algolia" width = "380"><br>
 
-### Contact with me 📝
+### Links 🔗
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/emran-marei-4a5a36141/
