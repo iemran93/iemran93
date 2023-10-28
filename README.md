@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Languages and Tools
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+
 <!--
 **iemran93/iemran93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
