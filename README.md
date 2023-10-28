@@ -14,7 +14,7 @@ Reboot Coding Institute (Enroll)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,JustWhit3.github.io,vcpkg&theme=algolia" width = "380"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemran93&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,JustWhit3.github.io,vcpkg&theme=algolia" width = "380"><br>
 
 ### Links 🔗
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
