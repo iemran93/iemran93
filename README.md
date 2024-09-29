@@ -6,7 +6,7 @@ Reboot Coding Institute (Enroll)
 ### Languages and Tools
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Go](http://img.shields.io/badge/-Go-59bbc2?style=flat-square&logo=go&logoColor=ffffff)
-![JavaScript](http://img.shields.io/badge/-JavaScript-59bbc2?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![JavaScript](http://img.shields.io/badge/-JavaScript-f4d03f?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
